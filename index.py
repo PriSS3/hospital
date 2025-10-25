@@ -43,6 +43,7 @@ while True:
   print("3. Buscar paciente")
   print("4. Buscar médico")
   print("0. Sair")
+  print("teste do git")
 
   op = int(input())
 
@@ -62,3 +63,4 @@ while True:
   elif(op == 0):
     break
   else: print(pacientes)
+
